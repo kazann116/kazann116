@@ -20,7 +20,7 @@
 
 | Проект | Что это | Состояние |
 |---|---|---|
-| **TgBot** | Telegram Bot API для Delphi: весь API, невизуальный компонент, long polling и webhook. Windows, Linux, Android | готовится к публикации |
+| **[TgBot](https://github.com/kazann116/TgBot)** | Telegram Bot API для Delphi: весь API, невизуальный компонент, long polling и webhook. Windows, Linux, Android | выпущен, версия 0.1.0 · MIT |
 
 ## 🛠️ Чем работаю
 
