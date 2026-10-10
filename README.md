@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a0f0a,50:7a2e0e,100:ff7a18&text=%D0%91%D0%B0%D0%B9%D1%82%D0%BA%D1%80%D0%B0%D1%84%D1%82&fontColor=ffe2c2&fontSize=66&fontAlignY=36&desc=%D0%9A%D1%83%D1%8E%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8%20%D0%B8%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20Delphi&descAlignY=58&descSize=20" alt="Байткрафт — кую библиотеки и инструменты для Delphi" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=210&color=0:1a0f0a,45:7a2e0e,100:c2500f&text=%D0%91%D0%B0%D0%B9%D1%82%D0%BA%D1%80%D0%B0%D1%84%D1%82&fontColor=ffe2c2&fontSize=66&fontAlignY=40&desc=%D0%9A%D1%83%D1%8E%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8%20%D0%B8%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20Delphi&descAlignY=66&descSize=20" alt="Байткрафт — кую библиотеки и инструменты для Delphi" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=FF7A18&center=true&vCenter=true&width=760&lines=%D0%9F%D1%80%D0%B5%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D0%B4%2C%20%D0%B0%20%D0%BA%D0%BE%D0%B4%20%E2%80%94%20%D0%B2%20%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8;Delphi%20%C2%B7%20Object%20Pascal%20%C2%B7%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B8%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8;Telegram%20Bot%20API%20%C2%B7%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%98%D0%98" alt="Превращаю идеи в код, а код — в возможности" />
 
@@ -40,5 +40,5 @@
 Пишите в Telegram — [@Druidw](https://t.me/Druidw). Вопросы и предложения по библиотекам можно оставлять и в Issues нужного репозитория.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:ff7a18,50:7a2e0e,100:1a0f0a" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:c2500f,50:7a2e0e,100:1a0f0a" alt="" width="100%" />
 </div>
